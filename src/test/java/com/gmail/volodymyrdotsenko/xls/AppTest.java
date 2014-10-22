@@ -1,4 +1,4 @@
-package com.ukrsibbank.xls;
+package com.gmail.volodymyrdotsenko.xls;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
